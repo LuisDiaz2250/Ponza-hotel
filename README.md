@@ -79,5 +79,8 @@ src/main/java/com/example/demo
 ├── controller     -> Controladores de la aplicación
 ├── entitys        -> Entidades del sistema
 ├── repository     -> Interfaces JPA para acceso a datos
-├── service        -> Lógica de negocio
+├── service        -> Lógica de negocio![WhatsApp Image 2026-03-17 at 3 14 32 PM](https://github.com/user-attachments/assets/55e6a512-6027-4aed-9086-4146f97ecffe)
 └── DataLoader     -> Carga inicial de datos de prueba
+
+
+![WhatsApp Image 2026-03-17 at 3 14 32 PM](https://github.com/user-attachments/assets/5e6045c5-2e72-4d57-b5dc-cb0a6bf91590)
