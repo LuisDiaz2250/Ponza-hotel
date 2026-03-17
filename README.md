@@ -1,6 +1,6 @@
 # Ponza Hotel
+<img width="844" height="336" alt="image" src="https://github.com/user-attachments/assets/14329161-d390-414b-bc15-1f42e3d606c3" />
 
-![WhatsApp Image 2026-03-17 at 3 14 32 PM](https://github.com/user-attachments/assets/9317f76a-9c15-44fd-bedc-91bd292a721e)
 
 
 Aplicación web desarrollada como proyecto académico para la asignatura **Calidad de Ingeniería**.  
