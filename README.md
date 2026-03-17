@@ -1,5 +1,8 @@
 # Ponza Hotel
 
+![WhatsApp Image 2026-03-17 at 3 14 32 PM](https://github.com/user-attachments/assets/9317f76a-9c15-44fd-bedc-91bd292a721e)
+
+
 Aplicación web desarrollada como proyecto académico para la asignatura **Calidad de Ingeniería**.  
 El sistema simula la gestión y visualización de los servicios de un hotel de lujo, permitiendo administrar información relacionada con habitaciones, reservas, clientes, spa, restaurantes, eventos y otros servicios complementarios.
 
@@ -83,4 +86,3 @@ src/main/java/com/example/demo
 └── DataLoader     -> Carga inicial de datos de prueba
 
 
-![WhatsApp Image 2026-03-17 at 3 14 32 PM](https://github.com/user-attachments/assets/5e6045c5-2e72-4d57-b5dc-cb0a6bf91590)
