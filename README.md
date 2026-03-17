@@ -84,5 +84,15 @@ src/main/java/com/example/demo
 ├── repository     -> Interfaces JPA para acceso a datos
 ├── service        -> Lógica de negocio![WhatsApp Image 2026-03-17 at 3 14 32 PM](https://github.com/user-attachments/assets/55e6a512-6027-4aed-9086-4146f97ecffe)
 └── DataLoader     -> Carga inicial de datos de prueba
+```
+
+## Imagenes referencia pagina web Ponza
+
+<img width="1600" height="918" alt="image" src="https://github.com/user-attachments/assets/5102a770-7116-4159-b03e-9af1aa905b4a" />
+<img width="1600" height="917" alt="image" src="https://github.com/user-attachments/assets/66e40584-3a23-45df-b2f1-2dddaca27d3c" />
+
+
+
+
 
 
